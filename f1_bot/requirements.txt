@@ -1,5 +1,0 @@
-python-telegram-bot==13.7
-requests==2.28.1
-beautifulsoup4==4.11.1
-sentence-transformers==2.2.2
-torch==1.13.1 --index-url https://download.pytorch.org/whl/cpu
