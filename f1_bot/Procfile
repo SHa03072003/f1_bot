@@ -1,0 +1,1 @@
+web: python smart_bot.py
